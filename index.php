@@ -18,16 +18,16 @@ try {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tech Admin AZ Test AWS ECS Fargate Demo Page</title>
+    <title>Tech Admin AZ codebuild/codepipeline Test AWS ECS Fargate Demo Page</title>
 </head>
 <body>
 
-    <h1>Tech Admin AZ Test Application Running Successfully</h1>
+    <h1>Tech Admin AZ codebuild/codepipeline Test Application Running Successfully</h1>
 
-    <h2>Tech Admin AZ Test Database Connectivity Status</h2>
+    <h2>Tech Admin AZ codebuild/codepipeline Test Database Connectivity Status</h2>
 
     <p style="color:green;">
-        Tech Admin AZ Test Application connected to Amazon RDS MySQL Successfully
+        Tech Admin AZ codebuild/codepipeline Test Application connected to Amazon RDS MySQL Successfully
     </p>
 
     <p>
