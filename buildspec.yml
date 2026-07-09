@@ -6,7 +6,7 @@ phases:
     - pwd
     - ls -la
     - find . -maxdepth 2 -type f
-    - aws ecr get-login-password --region us-east-1 | podman login --username AWS --password-stdin 604275787869.dkr.ecr.us-east-1.amazonaws.com
+    - aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 604275787869.dkr.ecr.us-east-1.amazonaws.com
     - REPOSITORY_URI=604275787869.dkr.ecr.us-east-1.amazonaws.com/aztestdemoapp
     - IMAGE_TAG=latest
 
