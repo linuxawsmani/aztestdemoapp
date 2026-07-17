@@ -18,7 +18,7 @@ try {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tech Admin AZ Test AWS ECS Fargate Demo Page</title>
+    <title>Tech Admin AZ Test CI/CD AWS ECS Fargate Demo Page</title>
 </head>
 <body>
 
@@ -27,7 +27,7 @@ try {
     <h2>Tech Admin AZ Test Database Connectivity Status</h2>
 
     <p style="color:green;">
-        Welcome to Tech Admin AZ Test Application connected to Amazon RDS MySQL Successfully
+        Welcome to Tech Admin CI/CD AZ Test Application connected to Amazon RDS MySQL Successfully
     </p>
 
     <p>
