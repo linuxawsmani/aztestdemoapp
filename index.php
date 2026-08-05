@@ -24,10 +24,10 @@ try {
 
     <h1>Tech Admin AZ Test CI/CD PHP Application Running Successfully</h1>
 
-    <h2>Tech Admin AZ Test RDS Database Connectivity Status</h2>
+    <h2>Tech Admin AZ Test Aurora/MYSQL/RDS Database Connectivity Status</h2>
 
     <p style="color:green;">
-        Tech Admin AZ Test Application connected to Amazon RDS MySQL Successfully
+        Tech Admin AZ Test Application connected to Amazon Aurora/MYSQL/RDS Successfully
     </p>
 
     <p>
