@@ -22,7 +22,7 @@ try {
 </head>
 <body>
 
-    <h1>Welcome to Tech Admin AZ Test first CI/CD PHP Application Running Successfully</h1>
+    <h1>Welcome to Tech Admin AZ Test Second CI/CD PHP Application Running Successfully</h1>
 
     <h2>Welcome to Tech Admin AZ Test Aurora/MYSQL/RDS Database Connectivity Status check</h2>
 
