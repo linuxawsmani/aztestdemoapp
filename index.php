@@ -26,7 +26,7 @@ try {
 
     <h2>Welcome to Tech Admin AZ Test Aurora/MYSQL/RDS Database Connectivity Status check</h2>
 
-    <h2>This is final demo CI/CD test page check</h2>
+    <h2>This is delete demo CI/CD test page check</h2>
     
     <p style="color:green;">
         Welcome to Tech Admin AZ Test Application connected to Amazon Aurora/MYSQL/RDS Successfully
