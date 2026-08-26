@@ -22,10 +22,12 @@ try {
 </head>
 <body>
 
-    <h1>Welcome to Tech Admin AZ Test Second CI/CD PHP Application Running Successfully</h1>
+    <h1>Welcome to Tech Admin AZ Test PHP Application Running Successfully</h1>
 
     <h2>Welcome to Tech Admin AZ Test Aurora/MYSQL/RDS Database Connectivity Status check</h2>
 
+    <h2>This is CI/CD test page check</h2>
+    
     <p style="color:green;">
         Welcome to Tech Admin AZ Test Application connected to Amazon Aurora/MYSQL/RDS Successfully
     </p>
